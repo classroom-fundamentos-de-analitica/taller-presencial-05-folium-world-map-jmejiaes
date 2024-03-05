@@ -8,3 +8,4 @@ https://raw.githubusercontent.com/jdvelasq/datalabs/master/datasets/scopus-paper
 
 Implemente el código requerido y salve el mapa en un archivo llamado `map.html`.
 Use la librería `folium` para crear el mapa.
+
